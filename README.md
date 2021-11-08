@@ -1,5 +1,6 @@
 # LolasNewOrleans
 Lola's is a New Orleans restaurant that was looking for a website reboot. I created a new Logo using Canva and injected that into the project. 
+Check out the <a href="https://dannieeeg.github.io/LolasNewOrleans/"> site</a> page!
 
 # HTML
 # CSS
